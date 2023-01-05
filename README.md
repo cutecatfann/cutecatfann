@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @cutecatfann
-- 👀 I’m interested in everything about CS! 
-- 🌱 I’m currently learning algorithms, data structures, data analysis, web dev ect
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
