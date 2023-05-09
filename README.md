@@ -1,4 +1,3 @@
-[![Mimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutecatfann)](https://github.com/cutecatfann/github-readme-stats)
 # Hi there, I'm Mimi 👋
 I chose my username because I love cats! 🐱
 
