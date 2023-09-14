@@ -5,7 +5,7 @@ I am a data researcher @SBDC along with an Honors College Computer Software Engi
 
 ## 🚀 My Experience
 - Graduate Data Researcher, where I helped conduct business research for small businesses across the state of Oregon.
-- Sustainability Database Coordinator, where I leveraged my technical skills to build a database and conduct research for my university's Sustainability department.
+- Sustainability Database Coordinator, where helped conduct research for my university's Sustainability department.
 - Board Member of the University Board of Trustees, where I am actively developing plans and policies alongside industry leaders as the current student with a fiduciary duty to the university.
 - Computer Science Tutor, where I helped students develop technical skills and succeed academically.
 - - University IT Analyst, where I excelled in troubleshooting technical issues and providing support to university students and staff.
