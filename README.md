@@ -17,10 +17,6 @@
 - 🔬 Research on symbolic execution using the `Angr` framework to reduce state explosion.
 - 🤖 Exploring the use of GPT-4 for tutoring in Gen-ED computer science courses.
 
-## 🌱 What I'm Learning
-- ☁️ Expanding my knowledge in cloud computing, with a focus on `Azure` and `AWS`.
-- 🌐 Always keeping up with the latest trends in software development.
-
 ## 📫 How to Reach Me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mimi-pieper/) to discuss opportunities or just say hello! 😊
 
