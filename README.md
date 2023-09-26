@@ -4,7 +4,7 @@
 - 😺 Fun fact: My username is a tribute to my love for cats!
 - 📚 I'm dedicated to continuous learning and growth in the world of software engineering and beyond.
 - ☁️ I love cloud computing, and have achived the AZ-204 cert.
-- 🤖
+- 🤖 I also am a huge AI fan, and am learning more about machine learning development.
 
 ## 🛠️ My Experience
 - 💼 Data Analyst Intern: Conducted vital business research for small businesses across Oregon.
