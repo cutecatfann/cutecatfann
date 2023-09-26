@@ -3,7 +3,6 @@
 ## 🌟 About Me
 - 😺 Fun fact: My username is a tribute to my love for cats!
 - 📚 I'm dedicated to continuous learning and growth in the world of software engineering and beyond.
-- 🔍 I'm a data analyst at SBDC, helping small businesses in Oregon thrive.
 
 ## 🛠️ My Experience
 - 💼 Data Analyst Intern: Conducted vital business research for small businesses across Oregon.
