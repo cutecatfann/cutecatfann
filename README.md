@@ -6,17 +6,9 @@
 - ☁️ I love cloud computing, and have achived the AZ-204 cert.
 - 🤖 I also am a huge AI fan, and am learning more about machine learning development.
 
-## 🛠️ My Experience
-- 💼 Data Analyst Intern: Conducted vital business research for small businesses across Oregon.
-- ♻️ Student Sustainability Coordinator: Contributed to research for my university's Sustainability department.
-- 🎓 University Board of Trustees: Actively involved in developing plans and policies with industry leaders.
-- 👩‍🏫 Computer Science Tutor: Assisted students in developing technical skills and excelling academically.
-- 💻 University IT Analyst: Troubleshooting technical issues and providing support to university students and staff.
-- 🚀 Computer Science and Marketing Intern: Collaborated with a startup to develop innovative products and services.
-
 ## 🚀 What I'm Working On
 - 🔬 Research on symbolic execution using the `Angr` framework to reduce state explosion.
-- 🤖 Exploring the use of GPT-4 for tutoring in Gen-ED computer science courses.
+- 🤖 Building my personal website, and building portfolio projects.
 
 ## 📫 How to Reach Me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mimi-pieper/) to discuss opportunities or just say hello! 😊
