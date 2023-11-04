@@ -1,17 +1,20 @@
 # Hi there, I'm Mimi! 👋
 
-## 🌟 About Me
-- 😺 Fun fact: My username is a tribute to my love for cats!
-- 📚 I'm dedicated to continuous learning and growth in the world of software engineering and beyond.
-- ☁️ I love cloud computing, and have achieved the AZ-204 cert.
-- 🤖 I also am a huge AI fan, and am learning more about machine learning development.
+I'm an Honors Computer Science Student at Southern Oregon University, looking to get a software engineering role!
 
-## 🚀 What I'm Working On
-- 🔬 Research on symbolic execution using the `Angr` framework to reduce state explosion.
-- 🤖 Building my personal website, and building portfolio projects.
+A little about me: 
 
-## 📫 How to Reach Me
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mimi-pieper/) to discuss opportunities or just say hello! 😊
+☁️ AZ-204 Certified - Demonstrated expertise in Azure application development.
 
-## 🔍 Open to Opportunities
-I'm on the lookout for exciting Software Engineering internships or job opportunities that will help me further develop my skills and contribute to cutting-edge projects. Let's collaborate and make technology work its magic! 🌟
+💟 Software Engineer at Develop for Good - Working with Xtramath on DynamoDB backend, impacting 7.5M people.
+
+📊 Data Analyst at SBDC - Provided insights for 70+ businesses with data analysis and AI engineering.
+
+✅ Learn more about me on [LinkedIn!](https://link-url-here.org) 
+
+My tech skills:
+- Python, C++, TypeScript, JavaScript, HTML, CSS, C, SQL, PHP, R
+- Google Cloud Platform (GCP), AWS, TensorFlow, PyTorch, Jupyter Notebooks, React.js, Next.js,
+Kubernetes, Docker, Git, MongoDB, MariaDB, DynamoDB, MySQL, Sqlite3, Flask
+
+🤝 Let's Connect! - Feel free to reach out!
