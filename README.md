@@ -1,6 +1,6 @@
 # Hi there, I'm Mimi! 👋
 
-### I'm an Honors Computer Science Student at Southern Oregon University, looking to get a software engineering role!
+### I'm an Honors Computer Science Student at Southern Oregon University, seeking a software engineering role!
 
 ## A little about me: 
 - ☁️ AZ-204 Certified - Demonstrated expertise in Azure application development.
