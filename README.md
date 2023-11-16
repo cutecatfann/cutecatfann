@@ -1,8 +1,8 @@
 # Hi there, I'm Mimi! 👋
 
-I'm an Honors Computer Science Student at Southern Oregon University, looking to get a software engineering role!
+### I'm an Honors Computer Science Student at Southern Oregon University, looking to get a software engineering role!
 
-A little about me: 
+## A little about me: 
 
 ☁️ AZ-204 Certified - Demonstrated expertise in Azure application development.
 
@@ -12,7 +12,7 @@ A little about me:
 
 ✅ Learn more about me on [LinkedIn!](https://link-url-here.org) 
 
-My tech skills:
+## My tech skills:
 - Python, C++, TypeScript, JavaScript, HTML, CSS, C, SQL, PHP, R
 - Google Cloud Platform (GCP), AWS, TensorFlow, PyTorch, Jupyter Notebooks, React.js, Next.js,
 Kubernetes, Docker, Git, MongoDB, MariaDB, DynamoDB, MySQL, Sqlite3, Flask
