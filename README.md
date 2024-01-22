@@ -1,9 +1,6 @@
-
-<h1 align="center">
 Hi there, I'm Mimi! 👋
-</h1>
 
-💟 I'm an Honors CS Student at Southern Oregon University, seeking a software engineering role! I'd love to hear from you so feel free to connect with me at any time 😸
+💟 I'm an Honors CS Student at Southern Oregon University, seeking a software engineering role! I'd love to hear from you so feel free to connect with me 😸
 
 I'm passionate about cloud computing, databases, and generally backend engineering.
 
