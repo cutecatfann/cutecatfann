@@ -17,4 +17,4 @@ I'm passionate about cloud computing, databases, and generally backend engineeri
   - Flask, Laravel, TypeScript, React.js, React Native
  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cutecatfann&theme=highcontrast&card_width=700&starting_year=2023)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cutecatfann&theme=highcontrast&card_width=700&starting_year=2022)](https://git.io/streak-stats)
