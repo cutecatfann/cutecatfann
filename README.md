@@ -1,4 +1,4 @@
-Hi there, I'm Mimi! 👋
+# Hi there, I'm Mimi! 👋
 
 💟 I'm an Honors CS Student at Southern Oregon University, seeking a software engineering role! I'd love to hear from you so feel free to connect with me 😸
 
