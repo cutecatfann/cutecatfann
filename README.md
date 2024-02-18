@@ -4,7 +4,7 @@
 
 I'm passionate about cloud computing, databases, and generally backend engineering.
 
-Also I want my GitHub streak to continue haha
+🐱🐈😻
 
 ## My Mad Skills
 - Programming Languages:
