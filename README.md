@@ -1,7 +1,7 @@
 # Hi there, I'm Mimi! 👋
 
 
-Hello there! Welcome to my GitHub! My name is Mimi Pieper, and I am a software engineer passionate about building solutions that help people, address complex problems, and allow me to continue learning. I'm currently based in Southern Oregon but happy to relocate across the West Coast. Nice to meet you! I hope you will stick around 😉
+Hello there! Welcome to my GitHub! My name is Mimi Pieper, and I am a software engineer passionate about building solutions that help people, address complex problems, and allow me to continue learning. I'm currently based in Southern Oregon but happy to relocate across the West Coast. Nice to meet you! I hope you will stick around 😸
 
 <div align="center">
   
