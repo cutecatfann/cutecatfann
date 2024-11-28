@@ -1,7 +1,6 @@
 # Hi there, I'm Mimi! 👋
 
-Hello! Welcome to my GitHub! I'm Mimi Pieper, a software engineer passionate about building intuitive solutions to complex problems while continuing to learn and grow. I’m currently based in Southern Oregon but open to relocation across the West Coast. I love working on full-stack applications, exploring AI, and teaching others. Feel free to check out my work! 😸
-
+Hello! Welcome to my GitHub! I'm Mimi Pieper, a software engineer. Currently I work as a Solutions Architect at AWS
 ---
 
 ## 🔬 Educational Content & Research Repos
@@ -24,14 +23,6 @@ Hello! Welcome to my GitHub! I'm Mimi Pieper, a software engineer passionate abo
 
 - [CKY Python Parser](https://github.com/cutecatfann/CKY-Python-Parser): An optimized CKY parser built for fun to explore algorithms and data structures. I enjoy diving into computational linguistics and theory.
 
----
-
-## 🌱 What I'm Currently Up To
-
-- Working on my skills as a Full Stack Engineer, focusing on delivering high-quality user experiences. I'm working on improving my design skills as well as hard tech skills
-- Currently I'm continuing to improve my Go coding skills 
-  
----
 
 <div align="center">
 
@@ -39,7 +30,6 @@ Hello! Welcome to my GitHub! I'm Mimi Pieper, a software engineer passionate abo
   ![Python](https://img.shields.io/badge/Python-green?logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=yellow)
   ![SQL](https://img.shields.io/badge/SQL-orange?logo=SQL)
-  ![PHP](https://img.shields.io/badge/PHP-red?logo=PHP)
   ![C](https://img.shields.io/badge/C-purple?logo=C)
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -53,9 +43,6 @@ Hello! Welcome to my GitHub! I'm Mimi Pieper, a software engineer passionate abo
 ![Static Badge](https://img.shields.io/badge/React_Native-blue?logo=React_Native)
 ![Static Badge](https://img.shields.io/badge/Express-purple?logo=Express)
 ![Static Badge](https://img.shields.io/badge/Node.js-blue?logo=Node.js)
-![Static Badge](https://img.shields.io/badge/Scikit-Learn-green?logo=Scikit-Learn)
-![Static Badge](https://img.shields.io/badge/Numpy-yellow?logo=Numpy)
-![Static Badge](https://img.shields.io/badge/Pandas-orange?logo=Pandas)
 ![Static Badge](https://img.shields.io/badge/AWS-red?logo=AWS)
 ![Static Badge](https://img.shields.io/badge/Azure-purple?logo=Azure)
 ![Static Badge](https://img.shields.io/badge/Google_Cloud_Platform-blue?logo=Google%20Cloud%20Platform)
