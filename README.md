@@ -1,6 +1,6 @@
 # Hi there, I'm Mimi! 👋
 
-Hello! Welcome to my GitHub! I'm Mimi Pieper, a software engineer. Currently I work as a Solutions Architect at AWS
+Hello! Welcome to my GitHub! I'm a software engineer. Currently I work as a Solutions Architect at AWS
 ---
 
 ## 🔬 Educational Content & Research Repos
