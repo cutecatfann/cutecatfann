@@ -1,17 +1,6 @@
 # Hi there, I'm Mimi! 👋
 
 Hello! Welcome to my GitHub! I'm a software engineer. Currently I work as a Solutions Architect at AWS
----
-
-## 🔬 Educational Content & Research Repos
-
-- [MERN Educational Resources](https://github.com/cutecatfann/Jetstream2-MERN-Educational-Resources): I developed course material for undergraduate students on the MERN stack and AI development. My work focuses on simplifying complex technologies for students while offering hands-on project-based learning.
-  
-- [Firebase Todo Example](https://github.com/cutecatfann/firebase-todo-example): A full-stack example of a Todo application built with Firebase. This was used as part of my undergraduate teaching resources.
-
-- [angr Research Project](https://github.com/cutecatfann/angr-Single-Execution): Paid research on the open-source project angr, funded to explore symbolic execution and its applications. This project focuses on state explosion reduction using symbolic references for pre-calculation.
-
----
 
 ## 🚀 Cool Fun Side Projects on GitHub
 
