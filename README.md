@@ -12,6 +12,7 @@ Hello! Welcome to my GitHub! I'm a software engineer. Currently I work as a Solu
 
 - [CKY Python Parser](https://github.com/cutecatfann/CKY-Python-Parser): An optimized CKY parser built for fun to explore algorithms and data structures. I enjoy diving into computational linguistics and theory.
 
+Badges for stuff I know in no specific order:
 
 <div align="center">
 
