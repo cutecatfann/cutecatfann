@@ -1,6 +1,6 @@
 # Hi there, I'm Mimi! 👋
 
-Hello! Welcome to my GitHub! I'm a software engineer. Currently I work as a Solutions Architect at AWS
+Hello! I'm a software engineer. Currently, I work as a Solutions Architect at AWS.
 
 ## 🚀 Cool Fun Side Projects on GitHub
 
@@ -12,7 +12,7 @@ Hello! Welcome to my GitHub! I'm a software engineer. Currently I work as a Solu
 
 - [CKY Python Parser](https://github.com/cutecatfann/CKY-Python-Parser): An optimized CKY parser built for fun to explore algorithms and data structures. I enjoy diving into computational linguistics and theory.
 
-Badges for stuff I know in no specific order:
+## Badges for stuff I know in no specific order:
 
 <div align="center">
 
