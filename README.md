@@ -1,16 +1,6 @@
 # Hi there, I'm Mimi! 👋
 
-Hello! I'm a software engineer. Currently, I work as a Solutions Architect at AWS.
-
-## 🚀 Cool Fun Side Projects on GitHub
-
-- [YouTube Clone (TypeScript)](https://github.com/cutecatfann/bootube): A YouTube clone I built while learning TypeScript and full-stack development. I loved working on the video integration and UI design!
-  
-- [Lethal Company Website](https://github.com/cutecatfann/Lethal-Company-Website): The unofficial official website for Lethal Company, built using React. This project helped me refine my skills in React development and UI design.
-
-- [Discord Wordle Bot](https://github.com/cutecatfann/Discord-Wordle-Bot): A fun project using the Discord API and C++ to create an unlimited-play Wordle bot. It was my first real project, and though I cringe at the code now, it marks the start of my software journey.
-
-- [CKY Python Parser](https://github.com/cutecatfann/CKY-Python-Parser): An optimized CKY parser built for fun to explore algorithms and data structures. I enjoy diving into computational linguistics and theory.
+Hello! I'm a software engineer :)
 
 ## Badges for stuff I know in no specific order:
 
