@@ -1,6 +1,6 @@
 # Hi there, I'm Mimi! 👋
 
-Hello! I'm a software engineer :)
+Hello! I'm a software engineer at Amazon:)
 
 ## Badges for stuff I know in no specific order:
 
