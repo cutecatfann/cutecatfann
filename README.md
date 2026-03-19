@@ -2,6 +2,6 @@
 
 ## I'm a software engineer at Docker working on AI tooling
 
-Previously I was at Amazon Alexa SmartHome working on building LLMs
+Before Docker, I was at Amazon Alexa SmartHome working on building custom LLMs
 
 📱 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/mimi-pieper/)
