@@ -1,4 +1,4 @@
-# Hi there, I'm Mimi! 👋
+# Hi there! I'm Mimi! 👋
 
 ## I'm a software engineer at Docker working on AI tooling and security
 
