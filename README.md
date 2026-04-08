@@ -4,4 +4,4 @@
 
 Before Docker, I was at Amazon Alexa SmartHome working on building custom LLMs used by Alexa
 
-📱 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/mimi-pieper/)
+📱 You can reach me on [LinkedIn](https://www.linkedin.com/in/mimi-pieper/)
