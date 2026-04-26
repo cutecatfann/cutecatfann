@@ -1,6 +1,8 @@
 # Hi there! I'm Mimi! 👋
 
-## I'm a software engineer at Docker working on AI tooling and security
+## I'm a software engineer at Docker 
+
+I'm working on AI tooling and security
 
 Before Docker, I was at Amazon Alexa SmartHome working on building custom LLMs
 
